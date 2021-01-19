@@ -7,6 +7,8 @@
         <csv_delimiter/>
         <data_in_single_column>false</data_in_single_column>
         <data_loader/>
+        <data_stream_action/>
+        <data_stream_action_inputs/>
         <database_name/>
         <database_port/>
         <discard_arrays>false</discard_arrays>
@@ -68,4 +70,5 @@
         <xpath_root_node/>
         <zipped>false</zipped>
     </sys_data_source>
+    <sys_variable_value action="delete_multiple" query="document_key=03c1b4794f313200cb281b818110c701"/>
 </record_update>
